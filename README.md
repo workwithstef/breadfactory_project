@@ -15,3 +15,7 @@ Topics:
 #### Main functions
 
 #### MIT Licence - Basis for open source projects
+
+#### Documentation
+
+- to ignore files: create a .gitignore file and type the relevant files in it
